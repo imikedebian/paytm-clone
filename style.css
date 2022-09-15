@@ -11,10 +11,10 @@ body {
     background-color: #f6f7f7;
 }
 
-.busi-tools > * {
-    border: 2px solid black;
+.left > * {
+    /* border: 2px solid black; */
 }
 
-.cards > * {
-    border: 2px solid black;
+.left  {
+    /* border: 2px solid black; */
 }
